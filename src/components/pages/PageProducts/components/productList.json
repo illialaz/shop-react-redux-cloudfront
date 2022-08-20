@@ -3,14 +3,14 @@
     "id": "1",
     "brand": "Porsche",
     "model": "944s2",
-    "engineCapacity": 3.0,
-    "price": 4000
+    "engine": "3.0 straight-four",
+    "price": 10000
   },
   {
     "id": "2",
     "brand": "Porsche",
     "model": "911",
-    "engineCapacity": 3.4,
-    "price": 20000
+    "engine": "3.6 v6",
+    "price": 50000
   }
 ]
